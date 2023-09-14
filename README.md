@@ -1,16 +1,25 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishekdeshpande18/)
-
 </div>
 
-<h1>
+<h1 align="center">
   Hey there, I'm <a href="https://abhishek-1804.github.io/abhishekdeshpande_portfolio/">Abhishek</a>
-
+  <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<br>
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; Currently working with JS, React, Python, etc.
+- 🚀 &nbsp; Currently exploring ML, Gen AI, LLMs, etc.
+- 💬 &nbsp; Connect with me on
+  <a href="https://www.linkedin.com/in/abhishekdeshpande18/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="18" />
+  </a>
+  <a href="mailto:abhidp55@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="18" />
+  </a>
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 
 <h2 align="center">Languages and tools</h2>
 <p align="center">
@@ -29,18 +38,7 @@
 </p>
 <br>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-  <div align=center>
-    <br>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <br>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-    <br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Abhishek-1804"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhishek-1804&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Abhishek-1804"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-1804&layout=compact&theme=buefy&hide_border=true" /></a>
+| ------------- | ------------- |
