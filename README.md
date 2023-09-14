@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### Talking about Personal Stuff:
+### About Me:
 
 - 🛠 &nbsp; Currently working with JS, React, Python, etc.
 - 🚀 &nbsp; Currently exploring ML, Gen AI, LLMs, etc.
@@ -21,8 +21,7 @@
   </a>
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 
-<h2 align="center">Languages and tools</h2>
-<p align="center">
+### Languages and tools
 
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" height="50" width="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS" height="50" width="50" />
@@ -35,10 +34,9 @@
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/github.svg" alt="github" height="50" width="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/text%20editors/vscode.svg" alt="vscode" height="50" width="50" />
 
-</p>
 <br>
 
-## &#x1f4c8; GitHub Stats
+### GitHub Stats
 
-<a href="https://github.com/Abhishek-1804"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhishek-1804&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Abhishek-1804"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-1804&layout=compact&theme=buefy&hide_border=true" /></a>
-| ------------- | ------------- |
+<a href="https://github.com/Abhishek-1804"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhishek-1804&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
+<a href="https://github.com/Abhishek-1804"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-1804&layout=compact&theme=buefy&hide_border=true" /></a>
