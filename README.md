@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hey there, I'm <a href="https://abhishek-1804.github.io/abhishekdeshpande_portfolio/">Abhishek</a>
+  Hey there, I'm <a href="https://abhishek-1804.github.io/abhishekdeshpande_portfolio/" target="_blank">Abhishek</a>
   <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
