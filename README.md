@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **<apdeshp4@asu.edu>**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oMSJlgHWZGAL2ZqhjYrNLChqWT3TTyl6/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Z0g-mcGxI1uOAOPPMJjPJ26FwhIdPU84/view?usp=drive_link)
 
 - ⚡ Fun fact **Equal is Not Always Equal in JS**
 
