@@ -14,8 +14,10 @@
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-1804&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-1804&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-1804&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs&cache_seconds=86400&theme=dracula&border_radius=10" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-1804&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&border_radius=10" height="150" alt="languages graph"  />
 
 </div>
 
