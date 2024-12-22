@@ -3,30 +3,20 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Abhishek Deshpande</h1>
-<h3 align="center">Python Enthusiast | Data Scientist | Full-Stack Developer</h3>
+<h3 align="center">Software Developer | Data Scientist | Python Enthusiast</h3>
 
-- 🌱 I’m currently learning **Next.js, Docker, Linux**
+- 🌱 **Currently Learning**: Next.js, Kubernetes, Docker, CI/CD, Linux, and building scalable projects  
+- 📫 **Discover My Work**: [My Portfolio](https://abhishek-1804.github.io/abhishekdeshpande_portfolio/)  
+- ⚡ **Fun Fact**: Equal isn't always equal in JavaScript!
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://abhishek-1804.github.io/abhishekdeshpande_portfolio/)
-
-- 📫 How to reach me **<apdeshp4@asu.edu>**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Z0g-mcGxI1uOAOPPMJjPJ26FwhIdPU84/view?usp=drive_link)
-
-- ⚡ Fun fact **Equal is Not Always Equal in JS**
-
-<h3>Connect with me:</h3>
-<p>
-  <a href="https://linkedin.com/in/abhishekdeshpande18" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekdeshpande18" height="30" width="40" />
-  </a>
-</p>
+---
 
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-1804&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-1804&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-1804&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
 </div>
 
 <br clear="both">
