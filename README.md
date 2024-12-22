@@ -9,8 +9,6 @@
 - 📫 **Discover My Work**: [My Portfolio](https://abhishek-1804.github.io/abhishekdeshpande_portfolio/)  
 - ⚡ **Fun Fact**: Equal isn't always equal in JavaScript!
 
----
-
 ## Stats
 
 <div align="center">
