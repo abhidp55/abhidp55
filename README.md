@@ -21,4 +21,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/abhishek-1804/abhishek-1804/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/abhishek-1804/abhishek-1804/output/github-contribution-grid-snake-dark.svg)
